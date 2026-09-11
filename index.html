@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Towards a new taxonomy of politics</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="wrap header-inner">
+    <h1 id="site-title">Towards a new taxonomy of politics</h1>
+    <nav id="nav" class="nav" aria-label="Sections"></nav>
+  </div>
+  <div class="progress" id="progress-bar" hidden><div class="progress-fill" id="progress-fill"></div></div>
+</header>
+
+<main class="wrap" id="main">
+  <section id="view-introduction" class="view prose" hidden></section>
+  <section id="view-semantics"   class="view prose" hidden></section>
+
+  <section id="view-questionnaire" class="view" hidden>
+    <div class="q-head">
+      <p class="q-counter" id="q-counter"></p>
+      <p class="q-dim" id="q-dim"></p>
+    </div>
+    <h2 class="q-text" id="q-text"></h2>
+    <p class="q-explanation" id="q-explanation"></p>
+    <p class="q-note" id="q-note" hidden></p>
+    <div class="infoboxes" id="q-info" hidden></div>
+    <div class="options" id="options" role="radiogroup" aria-labelledby="q-text"></div>
+    <div class="q-nav">
+      <button class="btn" id="btn-prev" type="button">&larr; Previous</button>
+      <button class="btn" id="btn-skip" type="button">Skip</button>
+      <button class="btn btn-primary" id="btn-next" type="button">Next &rarr;</button>
+    </div>
+    <p class="hint" id="q-hint"></p>
+  </section>
+
+  <section id="view-results" class="view" hidden></section>
+</main>
+
+<footer class="site-footer wrap">
+  <p>All text, questions and weights are mapped from <code>taxanomy.xlsx</code>. Answers are stored only in this browser.</p>
+</footer>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
