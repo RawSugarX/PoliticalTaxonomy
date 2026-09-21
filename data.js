@@ -150,7 +150,7 @@ window.TAXONOMY_DATA = {
       "Only gradually, and particularly in the aftermath of the Russian Revolution, did socialism and capitalism become established as opposing categories in which private versus state ownership of capital became the central defining distinction. In particular the social democrats of europe would continue for most of the 20th century to refer to themselves as soicalists, with this referring to economic equality more so than control.",
       "For much of the 20th century then some observers would conceptualize europe as characterized by mixed economies, meaning a mix of socialist and capitalist economies, seeing the production of services controlled by the state and the redistribution as elements of socialism with the ownership of most of capital and some inequality (although by historic standards shockingly little) being capitalist elements.",
       "However, gradually, especially from the beginning of the 21st century, the conception of socialism and capitalism as being as beng defined almost exclusively by control or ownership of production capital becomes dominant, and the understanding of europe as mixed economies becomes increasingly fringe, with social democracy or welfare states bizarrely now conceived as a subtype of capitalism, a characterization that would have been outlandish in the 19th century.",
-      "The point of this brief semantic rundown is not that these words have somehow lost their ‚Äútrue‚Äù meanings. This is simply how language works: meanings evolve, and the definitions currently most common are legitimate meanings with historical roots. The problem is that they are not the only possible meanings, nor do they necessarily capture the dimensions that matter most when comparing political systems.However i should think the previous paragraphs show that these arent the only possible meanings of the word and that a vast field of political possiblities are being constricted to a very small spectrum on a subset of aspects that are not neccesarily core to what is meant by the user. Particularly because the words are in fact used not merely in the narrow sense but in ways that refer to the entire field of past possible meanings as well as some new ones. The lack of terminological awareness and specificity often makes rational debate muddled with speakers referring to entirely different things while using the exact same word",
+      "The point of this brief semantic rundown is not that these words have somehow lost their ìtrueî meanings. This is simply how language works: meanings evolve, and the definitions currently most common are legitimate meanings with historical roots. The problem is that they are not the only possible meanings, nor do they necessarily capture the dimensions that matter most when comparing political systems.However i should think the previous paragraphs show that these arent the only possible meanings of the word and that a vast field of political possiblities are being constricted to a very small spectrum on a subset of aspects that are not neccesarily core to what is meant by the user. Particularly because the words are in fact used not merely in the narrow sense but in ways that refer to the entire field of past possible meanings as well as some new ones. The lack of terminological awareness and specificity often makes rational debate muddled with speakers referring to entirely different things while using the exact same word",
       "It does not help that the current most common definitons so narrowly refer to particular historic constructs of which one no longer even exists, at least only in a few very isolated nations. Even less helpful is uses of definitions that refer to systems that have never appeared in the annals of history. Even capitalism is unnecessarily dependent on its historical origins: it refers not simply to systems in which wealthy private actors exercise substantial economic power, but specifically to a historically particular form of wealth based on ownership of capital that has been dominant for only a few centuries. A taxonomy whose major categories correspond respectively to the overwhelmingly common historical condition on the one hand and a historically unusual form on the other is unlikely to be a particularly useful starting point for comparing political systems.",
       "The most narrow definitions also have obviously absurd consequences;",
       "1. If capitalism is defined by private ownership of capital specifically within an industrial economy, then a society identical in every relevant respect would cease to be capitalist merely because its productive wealth took a different form, for example a peasant economy with labor contracts and exact same distribution of wealth and economy.",
@@ -241,7 +241,7 @@ window.TAXONOMY_DATA = {
       "dimension": "Legal",
       "type": "Quis fecit?",
       "question": "who should create laws",
-      "explanation": "Who should have the authority to formulate legislation. Pass a law = officially approve/adopt the proposed law through the required legislative process. Formulate a law = draft or develop the proposed law; deciding what the law should say.",
+      "explanation": "Who should have the authority to formulate legislation. Who should have the power to formulate lawproposals. The competent would be a social group of educated or learned individuals, given the task because of  their skills rather than status, wealth or other reason",
       "options": [
         {
           "label": "the powerful",
@@ -310,7 +310,7 @@ window.TAXONOMY_DATA = {
       "row": 7,
       "dimension": "Legal",
       "type": "Quis fecit?",
-      "question": "who should enforce laws (modern day police, ie unelected representatives)",
+      "question": "who should enforce laws (modern day police, ie unelected representatives2)",
       "explanation": "Who should exercise coercive/legal enforcement power. The scale moves from relatively autonomous officials toward increasingly democratic oversight and ultimately enforcement controlled by the community itself.",
       "options": [
         {
@@ -555,7 +555,7 @@ window.TAXONOMY_DATA = {
       "row": 14,
       "dimension": "Political",
       "type": "Quis fecit?",
-      "question": "Political decisions should be made by",
+      "question": "Political decisions should be made by (pick one below)",
       "explanation": "Who should exercise political authority more broadly than simply making laws. This includes setting collective priorities, allocating authority and making other decisions about how society governs itself.",
       "options": [
         {
@@ -584,7 +584,7 @@ window.TAXONOMY_DATA = {
           "control": -85.0
         }
       ],
-      "note": "Political concerns decisions about how society is collectively governed‚Äîfor example, who has the power to make decisions, how taxes are raised and spent, what public services are provided, and what policies the government adopts. ‚ÄúLegal‚Äù concerns laws governing what people do: what conduct is permitted or prohibited, what rights and obligations people have, how disputes are resolved, and how violations are punished."
+      "note": "Political concerns decisions about how society is collectively governedófor example, who has the power to make decisions, how taxes are raised and spent, what public services are provided, and what policies the government adopts. ìLegalî concerns laws governing what people do: what conduct is permitted or prohibited, what rights and obligations people have, how disputes are resolved, and how violations are punished."
     },
     {
       "id": "q13",
@@ -697,7 +697,7 @@ window.TAXONOMY_DATA = {
       "dimension": "Political",
       "type": "Quis fecit?",
       "question": "Citizens should be able to recall elected representatives before the end of their term.",
-      "explanation": "Popular control between elections. Level of agreement indicates ease of recall. (e.g. a recall initiated when a certain percentage of voters sign a petition, triggering a special election; the representative‚Äôs political party having the power to recall them; or voters being able to continuously withdraw their support for the candidate they originally voted for).",
+      "explanation": "Popular control between elections. Level of agreement indicates ease of recall. (e.g. a recall initiated when a certain percentage of voters sign a petition, triggering a special election; the representativeís political party having the power to recall them; or voters being able to continuously withdraw their support for the candidate they originally voted for).",
       "options": [
         {
           "label": "Strongly agree",
@@ -946,7 +946,7 @@ window.TAXONOMY_DATA = {
           ]
         },
         {
-          "title": "gini realistically determines what share of the population is below a living income ‚Äî ie half the average ‚Äî or below the poverty line, ie a quarter of average income:",
+          "title": "gini realistically determines what share of the population is below a living income ó ie half the average ó or below the poverty line, ie a quarter of average income:",
           "lines": [
             "gini 10: almost equal",
             "gini 20: 10% below living income",
@@ -1031,7 +1031,7 @@ window.TAXONOMY_DATA = {
       "row": 27,
       "dimension": "Economic",
       "type": "cui bono",
-      "question": "Noone should want for",
+      "question": "Noone should want for (pick one below)",
       "explanation": "Minimum guaranteed material provision, are cumulative starting from no obligations through basic needs being met to societal obligation to provide a \"normal\" level of goods and services",
       "options": [
         {
