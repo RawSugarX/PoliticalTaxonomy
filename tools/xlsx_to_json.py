@@ -130,9 +130,7 @@ EDITS = {
                 "Resident (a person who lives in a particular country or place, but may not be a citizen)",
     },
     "q3": {
-        "e_append": "Pass a law = officially approve/adopt the proposed law through the required "
-                    "legislative process. Formulate a law = draft or develop the proposed law; "
-                    "deciding what the law should say.",
+        "e_append": "Who should have the power to formulate lawproposals. "The competent" would be a social group of educated or learned individuals, given the task because of  their skills rther thn sttus, welth or other reason",
     },
     "q5": {
         "q_append": "(modern day police, ie unelected representatives)",
@@ -151,6 +149,7 @@ EDITS = {
         ],
     },
     "q12": {
+    "q_append": "(pick one below)",
         "note": "Political concerns decisions about how society is collectively governed—for example, "
                 "who has the power to make decisions, how taxes are raised and spent, what public services "
                 "are provided, and what policies the government adopts. “Legal” concerns laws governing "
@@ -203,6 +202,7 @@ EDITS = {
         ],
     },
     "q25": {
+    "q_append": "(pick one below)",
         "opt_reverse": True,
     },
     "q30": {
