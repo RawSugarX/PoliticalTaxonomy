@@ -130,10 +130,10 @@ EDITS = {
                 "Resident (a person who lives in a particular country or place, but may not be a citizen)",
     },
     "q3": {
-        "e_append": "Who should have the power to formulate lawproposals. "The competent" would be a social group of educated or learned individuals, given the task because of  their skills rther thn sttus, welth or other reason",
+        "e_append": "Who should have the power to formulate lawproposals. The competent would be a social group of educated or learned individuals, given the task because of  their skills rather than status, wealth or other reason",
     },
     "q5": {
-        "q_append": "(modern day police, ie unelected representatives)",
+        "q_append": "(modern day police, ie unelected representatives2)",
     },
     "q7": {
         "q_append": "(modern day usually supreme court, ie unelected representatives)",
